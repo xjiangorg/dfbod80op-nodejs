@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dfbod80op-nodejs-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/dfbod80op-nodejs-gitops
